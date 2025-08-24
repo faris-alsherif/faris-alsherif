@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Faris Alsherif 👋
 
-<!--
-**faris-alsherif/faris-alsherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Student | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Student at Faculty of CS, BSNU**  
+💼 **Data Analyst Trainee** (1 year experience)  
+🔍 Passionate about exploring the Data Analysis track
+
+---
+
+## 🚀 Skills & Tools
+
+- **Python** 🐍
+- **SQL** 🗄️
+- **DAX** 📊
+
+---
+
+## 🧑‍💻 About Me
+
+I’m currently a student at the Faculty of Computer Science, BSNU, and a Data Analyst trainee with a year of hands-on experience. I love diving deep into data, uncovering insights, and turning numbers into meaningful stories. My goal is to continuously explore and expand my expertise in the data analysis domain.
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/faris-alsherif)
+
+---
+
+_“I am passionate about exploring more in the Data Analysis track!”_
